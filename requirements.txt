@@ -7,7 +7,6 @@ scikit_learn==1.0.2
 seaborn==0.11.2
 streamlit==1.7.0
 click<=8.0.4
-//tkinter<=8.5
 nltk<=3.8.1
 textblob<=0.9.0
 newspaper<0.1.0.7
